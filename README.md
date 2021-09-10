@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityabist
-- 👀 I’m interested in Python, specifically Pandas and Matplotlib libraries, for Data Analysis.
-- 🌱 I’m intermediate user of Python and Sql languages for data analysis
+- 👀 I’m a Python enthuciast, leveraging Python libraries for creating insights into big data. 
+- 🌱 I’m intermediate user of Python and Sql languages, steadily progressing towards my ultimate goal of working as a Data Analyst.
 - 📫 How to reach me: I can be reached on adityabist@yahoo.com
 
 <!---
