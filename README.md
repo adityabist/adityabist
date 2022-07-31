@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityabist
 - 👀 I’m a Python enthuciast, leveraging Python libraries for creating insights into big data. 
-- 🌱 I’m intermediate user of Python and Sql languages, steadily progressing towards my ultimate goal of working as a Data Analyst.
+- 🌱 I’m intermediate user of Python and Sql languages, steadily progressing towards my ultimate goal to become expert user and to explore datasets from varying industries, including datasets in my field of expertise-Finance.
 - 📫 How to reach me: I can be reached on adityabist@yahoo.com
 
 <!---
